@@ -44,7 +44,6 @@ if %mes%==12 set dias=31
 
 echo Ano Bissexto: %anoBissexto%
 
-:: Cria pastas de 1 até o número de dias do mês
 for /L %%D in (1,1,%dias%) do (
     mkdir %%D
 )
