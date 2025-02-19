@@ -12,9 +12,9 @@ mkdir %mes%
 cd %mes%
 
 set anoBissexto=False
-set /A resto4=%ano% %% 4
-set /A resto100=%ano% %% 100
-set /A resto400=%ano% %% 400
+set /A resto4=%ano% %%4
+set /A resto100=%ano% %%100
+set /A resto400=%ano% %%400
 
 if %resto4%==0 (
     if %resto100%==0 (
