@@ -74,7 +74,7 @@ for /L %%D in (1,1,%dias%) do (
 
 ## DESAFIOS
 
-O maior desafio enquanto eu programava era fazer com que o que aprendi na aula funcionasse, tive que fazer muitas tentativas até que finalmente conseguisse algum resultado significante, quando finalmente consegui fazer um script que funciona foi satisfatorio.
+O maior desafio enquanto eu programava era fazer com que o que aprendi na aula funcionasse juntamente com os comandos de *FALSE* e *TRUE*, tive que fazer muitas tentativas até que finalmente conseguisse algum resultado significante, quando finalmente consegui fazer um script que funciona foi satisfatorio.
 
 ## Explicando a programação
 
